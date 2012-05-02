@@ -1,0 +1,4 @@
+HasOffers-API
+=============
+
+HasOffers API
